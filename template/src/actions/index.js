@@ -1,4 +1,4 @@
-import TemplateAction from './template';
+import * as TemplateAction from './template';
 
 export default {
     TemplateAction
