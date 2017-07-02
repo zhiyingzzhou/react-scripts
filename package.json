@@ -54,12 +54,17 @@
     "url-loader": "0.5.8",
     "webpack": "2.6.1",
     "webpack-dev-server": "2.4.5",
-    "webpack-manifest-plugin": "1.1.0",
-    "axios": "0.16.2"
+    "webpack-manifest-plugin": "1.1.0"
   },
   "devDependencies": {
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "axios": "0.16.2",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.1",
+    "redux-thunk": "^2.2.0",
+    "react-router": "^4.1.1",
+    "react-router-dom": "^4.1.1"
   },
   "optionalDependencies": {
     "fsevents": "1.0.17"
